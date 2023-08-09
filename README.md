@@ -2,7 +2,7 @@
 
 Bem-vindo à Calculadora de Gorjetas! Este é um projeto desenvolvido com JavaScript, HTML e CSS para calcular gorjetas de maneira rápida e eficiente.
 
-![Calculadora de Gorjetas](screenshot.png)
+[![Calculadora de Gorjetas](screenshot.png)](https://github.com/Abnerdev03/gorjetas/issues/1#issue-1843207764)
 
 ## Funcionalidades
 
