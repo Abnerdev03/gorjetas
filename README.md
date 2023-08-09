@@ -2,8 +2,9 @@
 
 Bem-vindo à Calculadora de Gorjetas! Este é um projeto desenvolvido com JavaScript, HTML e CSS para calcular gorjetas de maneira rápida e eficiente.
 
-[![Calculadora de Gorjetas](screenshot.png)](https://github.com/Abnerdev03/gorjetas/issues/1#issue-1843207764)
-
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000(https://github.com/Abnerdev03/gorjetas/issues/2#issue-1843232560">
+</p>
 ## Funcionalidades
 
 - Insira o valor total da conta
