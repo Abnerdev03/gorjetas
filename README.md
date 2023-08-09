@@ -2,13 +2,13 @@
 
 Bem-vindo à Calculadora de Gorjetas! Este é um projeto desenvolvido com JavaScript, HTML e CSS para calcular gorjetas de maneira rápida e eficiente.
 
-<p align="center">
-  <img src="https://github.com/Abnerdev03/gorjetas/issues/2#issue-1843232560"700px>
-</p>
+
+<img src = "https://github.com/Abnerdev03/gorjetas/assets/141144654/091a3056-d968-4003-bd78-f177b4051b32"/>
+
 ## Funcionalidades
 
 - Insira o valor total da conta
-- Escolha a porcentagem de gorjeta desejada (10%, 15%, 20% ou personalize)
+- Escolha a porcentagem de gorjeta desejada (10%, 15%, 20%, 30%)
 - Calcule instantaneamente o valor da gorjeta a ser deixada
 - Veja o valor total a ser pago, incluindo a gorjeta
 
